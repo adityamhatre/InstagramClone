@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "424654259558",
+    "firebase_url": "https://instagram-clone-258b7.firebaseio.com",
+    "project_id": "instagram-clone-258b7",
+    "storage_bucket": "instagram-clone-258b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424654259558:android:bcaabd7c769a1445",
+        "android_client_info": {
+          "package_name": "com.adipandey.close_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424654259558-t9oe17h1j1qk6um6r25eibvtvo6h4lea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrdoig8HwY1IGOStY3IvoM0Lo2xGlz1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424654259558:android:65cb47c548c8edab",
+        "android_client_info": {
+          "package_name": "com.example.nishant.instawall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424654259558-55kukcpeeldvppo2jsr5af531id6aacs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishant.instawall",
+            "certificate_hash": "8059b471c053d0a285ed8639a25eaea266e90142"
+          }
+        },
+        {
+          "client_id": "424654259558-t9oe17h1j1qk6um6r25eibvtvo6h4lea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrdoig8HwY1IGOStY3IvoM0Lo2xGlz1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424654259558-t9oe17h1j1qk6um6r25eibvtvo6h4lea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424654259558:android:21b1caedaecc8108",
+        "android_client_info": {
+          "package_name": "com.thelegacycoder.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424654259558-t9oe17h1j1qk6um6r25eibvtvo6h4lea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrdoig8HwY1IGOStY3IvoM0Lo2xGlz1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
